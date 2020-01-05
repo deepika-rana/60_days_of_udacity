@@ -1,5 +1,6 @@
 # 60_days_of_udacity
 D1 : Revised perceptrons,gradient descent,one-hot encoding, feedforward,backpropagation
+
      Read Articles
      https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0
      https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
