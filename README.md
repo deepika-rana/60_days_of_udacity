@@ -1,4 +1,4 @@
-# 60_days_of_udacity
+# 60_days_udacity
 D1 : Revised perceptrons,gradient descent,one-hot encoding, feedforward,backpropagation
 
      Read Articles
@@ -11,4 +11,16 @@ D2 : Completed lesson 5.1 to 5.7
 D3 : Solved problems on Hackerrank in python section
 
 D4 : Vectorisation and linear regression code
-     To differ in cat vs non-cat
+     
+D5 : Build image recognition algorithm on cat vs non-cat datasets
+     1. Worked with Logistic Regression
+     2. Learned to minimise the cost function
+     3. Learned how derivatives of the cost are used to update parameters
+
+D6 : Solved problems on hackerrank in python
+
+D7 : Completed the course of Neural Networks and Deep Learning by Andrew Ng
+
+D8 : Completed the notebook to generate red and blue points to form a flower.
+     1. Developed an intuition of back-propagation and saw it working on data.
+     2. Built all the helper functions to implement a full model with one hidden layer.
