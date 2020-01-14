@@ -31,6 +31,11 @@ D9 : Completed part 5.6 to 5.11
 
 D10 : Continued lesson 5.12 to 5.15
 
-D11 : Starting building a deep neural network
+D11 : Started building a deep neural network
 
 D12 : Completed and compiled the functions for the finalised model
+      
+      1.Developed an intuition of the over all structure of a neural network.
+      2.Wrote functions (e.g. forward propagation, backward propagation, logistic loss, etc...) that would help decompose code and ease       the process of building a neural networ
+      3.Initialized/updated parameters according to your desired structure.
+     
