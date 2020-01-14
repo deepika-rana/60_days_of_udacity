@@ -28,3 +28,9 @@ D8 : Completed the notebook to generate red and blue points to form a flower.
      2. Built all the helper functions to implement a full model with one hidden layer.
 
 D9 : Completed part 5.6 to 5.11
+
+D10 : Continued lesson 5.12 to 5.15
+
+D11 : Starting building a deep neural network
+
+D12 : Completed and compiled the functions for the finalised model
