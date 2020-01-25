@@ -51,3 +51,22 @@ D15 : Read articles
       1.https://www.learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/
       2.https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
      
+D16 : Completed lesson 5
+
+D17 : Started with course on CNN's part 3rd of deep learning specialisation
+
+D18 : Completed lesson 6.1 to 6.4
+      Continued with 3rd course of deep learning specialisation
+      
+D19 : Completed lesson 6.5 to 6.16
+
+D20 : Completed lesson 6.17 to 6.20
+
+D21 : Break day
+
+D22 : Completed 6.21 to 6.30
+
+D23 : Solved questions on hackerrank in Python section
+
+D24 : Completed lesson 6 from 6.31 to 6.44
+
