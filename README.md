@@ -70,3 +70,6 @@ D23 : Solved questions on hackerrank in Python section
 
 D24 : Completed lesson 6 from 6.31 to 6.44
 
+D25 : Completed parts 7.1 to 7.7
+
+D26 : Completed lesson 7
