@@ -62,7 +62,7 @@ D19 : Completed lesson 6.5 to 6.16
 
 D20 : Completed lesson 6.17 to 6.20
 
-D21 : Break day
+D21 : Skip day
 
 D22 : Completed 6.21 to 6.30
 
@@ -73,3 +73,5 @@ D24 : Completed lesson 6 from 6.31 to 6.44
 D25 : Completed parts 7.1 to 7.7
 
 D26 : Completed lesson 7
+
+D27 : Did part 8.1 to 8.13
