@@ -75,3 +75,23 @@ D25 : Completed parts 7.1 to 7.7
 D26 : Completed lesson 7
 
 D27 : Did part 8.1 to 8.13
+
+D28 : Completed 8.14 to 8.20
+
+D29 : Completed lesson 8
+
+D30 : Completed till lesson 9
+      Read articles 
+      
+      https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+      https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2
+      
+D31 : Completed till lesson 9.9
+
+D32 : Completed lesson 9.
+      Participated in study jam in #math_in_ai
+      
+D33 : Practiced problems on hackerrank
+      Participated in #sg_women_in_ai session on Style Transfer
+      
+D34 : Completed lesson 10. Course completed.
