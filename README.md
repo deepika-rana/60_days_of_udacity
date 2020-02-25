@@ -125,16 +125,16 @@ D46 : Participated in study jam in #sg_aiudacity4india and also in #math_in_ai d
 D47 : • Participated in #study_jam in #sg_aiudacity4india. 
       • Conducted technical dicussions for 2 hours along with other moderators 
       • Completed the 3 quizzes on RNNs and CNNs  
-      • Moderated the wonderful study jam webinar :clap: on Style Transfer . 
+      • Moderated the wonderful study jam webinar on Style Transfer . 
       • Participated in the informative session on RNNs in #sg_women_in_ai.
 
 D48 : • Revised CNNs, reviewed 2 code exercises in lesson 6.
       • Read an article:
         https://www.sciencedirect.com/science/article/pii/S1877050918308019
 
-D49 : • Revised lesson 6 till 6.6 :heavy_check_mark: 
+D49 : • Revised lesson 6 till 6.6  
       • Started week 3 of Andrew Ng's specialization 2nd course.
-      • Attended the special #ama_sessions by @Anju Mercian. Huge shoutout :clap:  to her for her inspiring journey.
+      • Attended the special #ama_sessions by @Anju Mercian. Huge shoutout to her for her inspiring journey.
        Excited for the AWS conference AI/ML Edition. 
 
 D50 : • Completed revising lesson 6.
