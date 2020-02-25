@@ -95,3 +95,61 @@ D33 : Practiced problems on hackerrank
       Participated in #sg_women_in_ai session on Style Transfer
       
 D34 : Completed lesson 10. Course completed.
+
+D35 : Revised lesson 5.1 to 5.5. 
+
+D37 : Practiced problems on Hackerrank.
+
+D38 : Completed the assignment in Andrew Ng's Course Specialisation
+
+D39 : • Participated in  Ubuntu Study Jam session
+      • Moderated two webinars in the study jam webinars
+      • Attended 5 webinars in total and participated in quizzes as well.
+
+D40 : • Took part in activities in Study Jam in #random channel
+      • Participated in #dankaimeme challenge
+      • Attended a webinar on notebook walkthrough
+
+D41 : Started with week 2 of Andrew Ng's Course Specialzation.
+
+D42 : Checked all the quizzesa nd exercises are marked done. Updated my github repo.
+
+D43 : Did Assignment on Regularisation Methods. 
+
+D44 : Completed the assignment of Andrew Ng course on different Regularisation methods and random initialisation uploaded to my github         repo
+
+D45 : Revised lesson 5 and made proper notes. Got to know a few things in details which I missed earlier.
+
+D46 : Participated in study jam in #sg_aiudacity4india and also in #math_in_ai doubt clearing session.
+
+D47 : • Participated in #study_jam in #sg_aiudacity4india. 
+      • Conducted technical dicussions for 2 hours along with other moderators 
+      • Completed the 3 quizzes on RNNs and CNNs  
+      • Moderated the wonderful study jam webinar :clap: on Style Transfer . 
+      • Participated in the informative session on RNNs in #sg_women_in_ai.
+
+D48 : • Revised CNNs, reviewed 2 code exercises in lesson 6.
+      • Read an article:
+        https://www.sciencedirect.com/science/article/pii/S1877050918308019
+
+D49 : • Revised lesson 6 till 6.6 :heavy_check_mark: 
+      • Started week 3 of Andrew Ng's specialization 2nd course.
+      • Attended the special #ama_sessions by @Anju Mercian. Huge shoutout :clap:  to her for her inspiring journey.
+       Excited for the AWS conference AI/ML Edition. 
+
+D50 : • Completed revising lesson 6.
+      • Attended AWS online conference( AI/ML Edition)
+      • Continued with week 3 of 2nd course of Andrew Ng 
+
+D52 : • Revised lesson 7. 
+      • Starting preparing for conducting my webinar on CNNs.
+
+D53 : • Solved questions on concepts of trees, djikstra's algorithm. 
+      • Also prepared a database in SQL for college assignment. 
+      • Prepared for conducting my webinar on CNNs.
+
+D54 : • Conducted a webinar on Convolution Neural Networks in #sg_aiudacity4india. 
+      • Conducted a technical discussion in the study jam conducted in #sg_aiudacity4india.
+      • Attended a session in #sg_women_in_ai 
+
+
