@@ -5,7 +5,9 @@ D1 : Revised perceptrons,gradient descent,one-hot encoding, feedforward,backprop
      https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0
      https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
      
-D2 : Completed lesson 5.1 to 5.5
+D2 : 
+
+     Completed lesson 5.1 to 5.5
      Continuing Neural Networks and deep learning by Andrew Ng
      
 D3 : Solved problems on Hackerrank in python section
@@ -29,10 +31,20 @@ D8 : Completed the notebook to generate red and blue points to form a flower.
 
 D9 : Completed part 5.6 to 5.8
 
+      Neural Networks in PyTorch
+      Neural Networks Solution
+      Implementing Softmax Solution
+
 D10 : Continued lesson 5.9 to 5.11
 
+      Network Architectures in PyTorch
+      Network Architectures Solution
+      
 D11 : Continued lesson 5.12 to 5.15
-
+       
+      Classifying Fashion-MNIST
+      Inference and Validation
+      
 D12 : Started building a deep neural network
 
 D13 : Completed and compiled the functions for the finalised model
@@ -55,24 +67,39 @@ D16 : Completed lesson 5
 
 D17 : Started with course on CNN's part 3rd of deep learning specialisation
 
-D18 : Completed lesson 6.1 to 6.4
+D18 : 
+
+      Completed lesson 6.1 to 6.4
       Continued with 3rd course of deep learning specialisation
       
 D19 : Completed lesson 6.5 to 6.16
+
+      How Computers Interpret Images
+      MLP Structure & Class Scores
+      Notebook: MLP Classification, MNIST
 
 D20 : Completed lesson 6.17 to 6.20
 
 D21 : Skip day
 
 D22 : Completed 6.21 to 6.30
+      
+      Quiz: Kernels
+      Notebook: Finding Edges
 
 D23 : Solved questions on hackerrank in Python section
 
 D24 : Completed lesson 6 from 6.31 to 6.44
-
+     
+      Notebook: Layer Visualization
+      CNNs for Image Classification
+      Convolutional Layers in PyTorch
+      
 D25 : Completed parts 7.1 to 7.7
 
 D26 : Completed lesson 7
+      
+      Gram Matrix
 
 D27 : Did part 8.1 to 8.13
 
@@ -102,11 +129,15 @@ D37 : Practiced problems on Hackerrank.
 
 D38 : Completed the assignment in Andrew Ng's Course Specialisation
 
-D39 : • Participated in  Ubuntu Study Jam session
+D39 : 
+
+      • Participated in  Ubuntu Study Jam session
       • Moderated two webinars in the study jam webinars
       • Attended 5 webinars in total and participated in quizzes as well.
 
-D40 : • Took part in activities in Study Jam in #random channel
+D40 : 
+
+      • Took part in activities in Study Jam in #random channel
       • Participated in #dankaimeme challenge
       • Attended a webinar on notebook walkthrough
 
@@ -122,54 +153,77 @@ D45 : Revised lesson 5 and made proper notes. Got to know a few things in detail
 
 D46 : Participated in study jam in #sg_aiudacity4india and also in #math_in_ai doubt clearing session.
 
-D47 : • Participated in #study_jam in #sg_aiudacity4india. 
+D47 : 
+
+      • Participated in #study_jam in #sg_aiudacity4india. 
       • Conducted technical dicussions for 2 hours along with other moderators 
       • Completed the 3 quizzes on RNNs and CNNs  
       • Moderated the wonderful study jam webinar on Style Transfer . 
       • Participated in the informative session on RNNs in #sg_women_in_ai.
 
-D48 : • Revised CNNs, reviewed 2 code exercises in lesson 6.
+D48 : 
+
+      • Revised CNNs, reviewed 2 code exercises in lesson 6.
       • Read an article:
         https://www.sciencedirect.com/science/article/pii/S1877050918308019
 
-D49 : • Revised lesson 6 till 6.6  
+D49 : 
+
+      • Revised lesson 6 till 6.6  
       • Started week 3 of Andrew Ng's specialization 2nd course.
       • Attended the special #ama_sessions by @Anju Mercian. Huge shoutout to her for her inspiring journey.
        Excited for the AWS conference AI/ML Edition. 
 
-D50 : • Completed revising lesson 6.
+D50 : 
+
+      • Completed revising lesson 6.
       • Attended AWS online conference( AI/ML Edition)
       • Continued with week 3 of 2nd course of Andrew Ng 
 
-D52 : • Revised lesson 7. 
+D52 : 
+      
+      • Revised lesson 7. 
       • Starting preparing for conducting my webinar on CNNs.
 
-D53 : • Solved questions on concepts of trees, djikstra's algorithm. 
+D53 : 
+
+      • Solved questions on concepts of trees, djikstra's algorithm. 
       • Also prepared a database in SQL for college assignment. 
       • Prepared for conducting my webinar on CNNs.
 
-D54 : • Conducted a webinar on Convolution Neural Networks in #sg_aiudacity4india. 
+D54 : 
+
+      • Conducted a webinar on Convolution Neural Networks in #sg_aiudacity4india. 
       • Conducted a technical discussion in the study jam conducted in #sg_aiudacity4india.
       • Attended a session in #sg_women_in_ai 
 
-D56 : Revised lesson 8 and got some more insights. Read articles posted in #resources channel.
+D56 :
+
+      Revised lesson 8 and got some more insights. 
+      Read articles posted in #resources channel.
      •https://machinelearningmastery.com/weight-regularization-to-reduce-overfitting-of-deep-learning-models/
      •https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76
       Didn't post yesterday as it was a skip day.
       Preparing for my mid-semester exams.
 
-D57 : •Updated my github repo of 60 days
+D57 : 
+
+      •Updated my github repo of 60 days
       •Completed week 3 of Andrew Ng course.
       •Participated in mentors meeting for mentorship program.
      
 D58 : Continued with week 3 of the specialization course. Revision of lesson 8 done completely.
 
-D59 : •Revised lesson 9 of the course.
+D59 : 
+      
+      •Revised lesson 9 of the course.
       •Participated in pyclinic session by @Melissa Smith.
       •Prepared questions for technical discussions for study jam in #sg_aiudacity4india 
       •My github repo : https://github.com/deepika-rana/60_days_udacity
       
-D60 : •Participated in study jam in #sg_aiudacity4india.
+D60 : 
+
+      •Participated in study jam in #sg_aiudacity4india.
       •Prepared questions for conducting technical discussion.
       •Attended PyTorch clinic session by @Jordi F.
       
