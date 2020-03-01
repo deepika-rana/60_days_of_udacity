@@ -152,4 +152,27 @@ D54 : • Conducted a webinar on Convolution Neural Networks in #sg_aiudacity4in
       • Conducted a technical discussion in the study jam conducted in #sg_aiudacity4india.
       • Attended a session in #sg_women_in_ai 
 
+D56 : Revised lesson 8 and got some more insights. Read articles posted in #resources channel.
+     •https://machinelearningmastery.com/weight-regularization-to-reduce-overfitting-of-deep-learning-models/
+     •https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76
+      Didn't post yesterday as it was a skip day.
+      Preparing for my mid-semester exams.
 
+D57 : •Updated my github repo of 60 days
+      •Completed week 3 of Andrew Ng course.
+      •Participated in mentors meeting for mentorship program.
+     
+D58 : Continued with week 3 of the specialization course. Revision of lesson 8 done completely.
+
+D59 : •Revised lesson 9 of the course.
+      •Participated in pyclinic session by @Melissa Smith.
+      •Prepared questions for technical discussions for study jam in #sg_aiudacity4india 
+      •My github repo : https://github.com/deepika-rana/60_days_udacity
+      
+D60 : •Participated in study jam in #sg_aiudacity4india.
+      •Prepared questions for conducting technical discussion.
+      •Attended PyTorch clinic session by @Jordi F.
+      
+Completed #60_days_udacity challenge. 
+It was really great to be a part of this challenge as it helps in consistent work everyday.
+Time to celebrate!!!!
